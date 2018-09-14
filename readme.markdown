@@ -3,6 +3,6 @@
 
 
 # License
-Copyright 2017 Daniela Cassol
+Copyright 2018 Katia Silvera
 
-[license]: https://github.com/dcassol/dcassol.github.io/blob/master/LICENSE
+[license]: https://github.com/katiasilvera/katiasilvera.github.io/blob/master/LICENSE
