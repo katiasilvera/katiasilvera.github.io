@@ -1,7 +1,7 @@
 ---
 layout: null
-title: October 2017 - Present
+title: 2014 - Present
 subtitle:
-image: "img/timeline/ucr.png"
+image: "img/timeline/KSilvera_orchidfieldwork.jpg"
 ---
-Postdoctoral Researcher at UCR.
+Assistant Project Scientist at UC Riverside
