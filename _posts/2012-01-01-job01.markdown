@@ -1,9 +1,9 @@
 ---
 layout: null
-title: February 2012 - May 2016
+title: orchids
 subtitle:
-image: "img/timeline/ufrj.jpg"
+image: "img/timeline/lophiaris.tiff"
 ---
-<p>PhD in Biological Sciences (Genetics).</p>
-<p>Federal University of Rio de Janeiro, Brazil.</p>
-<p>Advisor: Dr. Gilberto Sachetto-Martins.</p>
+<p></p>
+<p></p>
+<p></p>
