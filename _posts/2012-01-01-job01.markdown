@@ -1,8 +1,8 @@
 ---
 layout: null
-title: orchids
+title: Orchids
 subtitle:
-image: "img/timeline/lophiaris.tiff"
+image: "img/timeline/Rossioglossum_ampliatum_flower.JPG"
 ---
 <p></p>
 <p></p>
