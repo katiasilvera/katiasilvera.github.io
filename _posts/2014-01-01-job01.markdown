@@ -2,6 +2,6 @@
 layout: null
 title: 2014 - Present
 subtitle:
-image: "img/timeline/KSilvera_orchidfieldwork.jpg"
+image: "img/timeline/008_0004.jpg"
 ---
 Assistant Project Scientist at UCR
