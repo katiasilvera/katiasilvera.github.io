@@ -2,7 +2,7 @@
 layout: null
 title: Orchids
 subtitle:
-image: "img/timeline/Rossioglossum_ampliatum.JPG"
+image: "img/timeline/Rossioglossum_ampliatum.jpg"
 ---
 <p>Rossioglossum ampliatum</p>
 <p>CAM species</p>
