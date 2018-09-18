@@ -4,6 +4,6 @@ title: Orchids
 subtitle:
 image: "img/timeline/Oncidium-ornithorhynchum.jpg"
 ---
-<p>Oncidium ornithorhynchum</p>
+<p>Oncidium sotoanum</p>
 <p>C3 species</p>
 <p></p>
