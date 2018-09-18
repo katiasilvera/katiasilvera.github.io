@@ -5,5 +5,5 @@ subtitle:
 image: "img/timeline/Oncidium-ornithorhynchum.jpg"
 ---
 <p>Oncidium ornithorhynchum</p>
-<p></p>
+<p>C3 species</p>
 <p></p>
