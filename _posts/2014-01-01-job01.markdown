@@ -4,4 +4,4 @@ title: 2014 - Present
 subtitle:
 image: "img/timeline/008_0004.jpg"
 ---
-Assistant Project Scientist at UCR
+Assistant Project Scientist at University of California Riverside
