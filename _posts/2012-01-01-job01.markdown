@@ -4,7 +4,7 @@ title: Orchids
 subtitle:
 image: "img/timeline/Rossioglossum_ampliatum.jpg"
 ---
-<p>Rossioglossum ampliatum (CAM species)</p>
-<p></p>
+<p>Rossioglossum ampliatum</p>
+<p>(CAM species)</p>
 
 <p>We use stable carbon isotopic composition from leaf samples to survey the occurrence of CAM in orchids</p>
