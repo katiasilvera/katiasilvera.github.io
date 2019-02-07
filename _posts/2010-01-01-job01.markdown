@@ -4,7 +4,7 @@ title: Orchids
 subtitle:
 image: "img/timeline/Oncidium-ornithorhynchum.jpg"
 ---
-<p>Oncidium sotoanum (C3 species)</p>
-<p></p>
+<p>Oncidium sotoanum</p>
+<p>(C3 species)</p>
 
 <p>I integrate ecophysiological, biochemical and molecular genetic approaches to understand the evolutionary origins of CAM within the context of a highly resolved phylogeny of orchids.</p>
